@@ -1,0 +1,20 @@
+* {
+  font-family: serif;
+}
+
+h1 {
+  color: #087ecd;
+  text-shadow: blue 2px 2px 2px;
+  font-size: 50px;
+}
+span {
+  color: #087ecd;
+}
+
+h3 {
+  color: #087ecd;
+}
+
+#aenan {
+  font-family: monospace;
+}

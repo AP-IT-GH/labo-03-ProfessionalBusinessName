@@ -1,0 +1,27 @@
+body {
+  background-color: #c8c8c8;
+  font-family: sans-serif;
+}
+
+h1 {
+  background-color: #008c8d;
+  color: white;
+  height: 80px;
+  align-content: center;
+  padding-left: 10px;
+  text-transform: uppercase;
+}
+h2 {
+  background-color: #ee3e7f;
+  color: white;
+  height: 80px;
+  align-content: center;
+  padding-left: 10px;
+  text-transform: uppercase;
+}
+p {
+  background-color: #fefefe;
+  height: 80px;
+  align-content: center;
+  padding: 10px;
+}

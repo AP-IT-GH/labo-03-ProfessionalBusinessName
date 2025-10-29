@@ -1,0 +1,38 @@
+* {
+  font-family: sans-serif;
+  background-color: #c1c1c1;
+}
+
+h1 {
+  color: gray;
+  background-color: #e0e0e0;
+  padding: 15px;
+}
+.BASE {
+  background: linear-gradient(
+    179deg,
+    rgba(16, 9, 150, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  or: white;
+  padding: 10px;
+  font-size: 15px;
+  margin: 0px;
+}
+.NEUTRAL {
+  background-color: #00ba89;
+  color: white;
+  padding: 10px;
+  font-size: 15px;
+  margin: 0px;
+}
+
+.ACID{
+  background-color: #ee3e7f;
+  color: white;
+  padding: 10px;
+  font-size: 15px;
+  margin: 0px;
+  
+}

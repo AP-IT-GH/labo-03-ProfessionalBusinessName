@@ -1,0 +1,23 @@
+header {
+  border: solid black 1px;
+}
+nav {
+  border: solid black 1px;
+  width: 50%;
+}
+
+section {
+  border: solid black 1px;
+  width: 62%;
+}
+article {
+  border: dotted red 1px;
+  width: 62%;
+}
+aside {
+  border: solid black 1px;
+  width: 38%;
+}
+footer {
+  border: solid black 1px;
+}
